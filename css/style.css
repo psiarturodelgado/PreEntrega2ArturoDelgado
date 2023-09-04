@@ -1,0 +1,58 @@
+h1{
+    color: darkgreen;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: green;
+    padding: 10px;
+}
+h3{
+    color: green;
+    text-align: center;
+}
+.fondonavbar{
+    background-color: white;
+}
+.imagenbienvenida{
+    display: block;
+    width: 40%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: #0E8126;
+}
+p{
+  text-align: justify;
+  padding: 10px  
+}
+.formulario{
+    display: inline-block;
+    padding: 5px;
+    margin: auto;
+}
+.candidatos{
+    display: inline-block;
+    margin: auto;
+    padding: 3px;
+    border: double 3px green;
+    width: 300px;
+    height: 250px;
+    padding: 5px;
+    margin: 5px;
+    overflow: hidden;
+}
+.formularioContacto{
+    display: block;
+}
+.botoncontacto{
+    background-color: #0E8126 ;
+    border: none;
+}
+.iframe{
+    max-width: 350px;
+    max-height: 250px;
+}
